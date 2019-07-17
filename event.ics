@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOTEPAD//MANUAL//EN
+BEGIN:VEVENT
+SUMMARY:Check for E-ZPass V-TOLL fees
+TZID:Europe/Zurich
+DTSTART;VALUE=DATE:20190701
+RRULE:FREQ=MONTHLY;INTERVAL=3;UNTIL=20380119T000000
+UID:e-zpass-v-toll
+DESCRIPTION:Review if an unexpected fees added to E-ZPass account
+LOCATION:https://fulldecent.github.io/e-zpass-v-toll-batch-dispute
+URL:https://fulldecent.github.io/e-zpass-v-toll-batch-dispute
+END:VEVENT
+END:VCALENDAR
