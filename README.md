@@ -16,7 +16,7 @@ V-TOLL probably stands for "video toll", representing that E-ZPass was required 
 
 To identify if your account was charged V-TOLL fees, login to your E-ZPass account here. (The link is different for each state, but you will need to choose your state. All the sites are the same.)
 
-* States: [PA](http://ezpass.csc.paturnpike.com), ((TODO: add more states here, click here to help, TODO add that link too)) ((Links may be available on each post here https://www.reddit.com/r/ezpass/))
+* States: [PA](http://ezpass.csc.paturnpike.com), ((TODO: add more states here, see EDIT THIS ARTICLE link below, more links may be available on each post here https://www.reddit.com/r/ezpass/))
 
 Then click "View Transactions", set your start date to be a long time ago, click search:
 
@@ -95,6 +95,6 @@ If you think E-ZPass's practices here are unacceptable, please write to your loc
 
 Post your letters to regulators and legisltors and refund notices publicly ((TODO: direct people to a specific place to find each other, like some reddit topic)).
 
-Please send any correctons for this article here: ((TODO: add link to GitHub))
+Please [edit this article](https://github.com/fulldecent/e-zpass-v-toll-batch-dispute/edit/master/README.md) to make any corrections.
 
 If you want to send me $5, [do that here](https://www.paypal.me/fulldecent/5usd).
