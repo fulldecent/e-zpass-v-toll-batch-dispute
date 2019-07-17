@@ -4,7 +4,7 @@
 
 In the past, E-ZPass toll lanes featured red-yellow-green lights which confired your payment went through and that your transponder was working.
 
-![e-zpass-light](/Users/williamentriken/Desktop/Article/assets/e-zpass-light.jpg)
+![e-zpass-light](assets/e-zpass-light.jpg)
 
 They removed them all, did you wonder why? The reason why is because they also added a \$5 to \$10 fee every time you go through E-ZPass if "your" transponder is not working. Transponders are actually also owned by E-ZPass. These fees are silently added to your bill and charged to your credit card on file without any notification to you. This article shows you how to identify these charges, explains how difficult these charages are to dispute and introduces automated techniques to dispute the charges.
 
@@ -20,13 +20,11 @@ To identify if your account was charged V-TOLL fees, login to your E-ZPass accou
 
 Then click "View Transactions", set your start date to be a long time ago, click search:
 
-
-
-![view-account-1](/Users/williamentriken/Desktop/Article/assets/view-account-1.png)
+![view-account-1](assets/view-account-1.png)
 
 Next, search this page for "V-TOLL" and "VTOLL" rows.
 
-![view-account-2](/Users/williamentriken/Desktop/Article/assets/view-account-2.png)
+![view-account-2](assets/view-account-2.png)
 
 ---
 
@@ -40,7 +38,7 @@ Just to F-up their day, I have written this document for you and explaned how yo
 
 First, select all disputed items and click dispute. On each dispute item you will have three pages of content to fill in. Load the first page:
 
-![dispute-1](/Users/williamentriken/Desktop/Article/assets/dispute-1.png)
+![dispute-1](assets/dispute-1.png)
 
 I have some extra stuff open on the bottom. You will need to "load developer tools" in your browser to see this stuff. On macOS/Safari you will also need to go to Settings->Advanced->Developer->Turn first. On my computer I need to type Command-Option-I to get this open and then I click on "Console in there".
 
@@ -57,7 +55,7 @@ WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ContentPlaceHol
 
 This will automatically fill in the above values and submit the form. And it loads the second page:
 
-![dispute-2](/Users/williamentriken/Desktop/Article/assets/dispute-2.png)
+![dispute-2](assets/dispute-2.png)
 
 Second verse, same as the first, paste this in:
 
@@ -68,7 +66,7 @@ WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ContentPlaceHol
 
 That loads the third page:
 
-![dispute-3](/Users/williamentriken/Desktop/Article/assets/dispute-3.png)
+![dispute-3](assets/dispute-3.png)
 
 Third verse, same as the first...
 
@@ -81,7 +79,7 @@ That completes the process. Your screen will now advance to the next disputed to
 
 At the end, you may also see a free-form dispute form which not need to be applied to specific tolls.
 
-![dispute-4](/Users/williamentriken/Desktop/Article/assets/dispute-4.png)
+![dispute-4](assets/dispute-4.png)
 
 They literally know everybody wants to dispute this and there is actually a category directly for this.
 
