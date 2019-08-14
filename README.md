@@ -1,3 +1,5 @@
+**Update 2019-08-12: Added note to show this resulted in all my fines being cancelled.**
+
 # E-ZPass V-TOLL Batch Dispute Script
 
 *Slightly more clickbaity headline: You are probably paying tens of dollars of unnecessary fees to E-ZPass each month.*
@@ -86,6 +88,15 @@ They literally know everybody wants to dispute this and there is actually a cate
 Next you will want to login every three months to make sure no new charges were added (so you can dispute them) and that all prior disputes were accepted.
 
 Here is a recurring three-month calendar invite: [ICS invite](event.ics). (TODO: add Google Calendar invite and other calendar invites)
+
+## Results
+
+The fees were refunded.
+
+![result-1](assets/result-1.png)
+
+![result-2](assets/result-2.png)
+
 
 ---
 
